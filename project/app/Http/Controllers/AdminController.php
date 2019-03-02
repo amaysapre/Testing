@@ -6,7 +6,6 @@ use Illuminate\Http\Request;
 use App\User;
 use App\Task;
 use Auth;
-
 class AdminController extends Controller
 {
     public function index()
